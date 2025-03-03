@@ -3,7 +3,7 @@
 const Paste = () => {
   return (
     <div>
-      paste
+      
     </div>
   )
 }
